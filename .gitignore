@@ -1,0 +1,28 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+venv/
+env/
+.conda/
+
+# --- LaTeX (Overleaf generated files) ---
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.dvi
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- IDEs ---
+.vscode/
+.idea/
